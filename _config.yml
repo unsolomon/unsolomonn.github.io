@@ -1,12 +1,18 @@
-lang:                  en
-title:                 Findig Goals
 copyright:             © 2024. All rights reserved.
-url                    : "https://unsolomonn.github.io"
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
 theme_color:           rgb(25,55,71)
 
 google_fonts:          false
+
+
+url :                  https://unsolomonn.github.io
+lang:                  ko-KR, en-US
+title:                 Findig Goals
+
+
+
+
 
 menu:
   - title:             Data분석   # 데이터 분석가가까지의 과정
